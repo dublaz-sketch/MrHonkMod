@@ -1,0 +1,32 @@
+{
+  "honk": {
+    "subtitle": "subtitles.mrhonk.honk",
+    "sounds": [
+      "mrhonk:honk"
+    ]
+  },
+  "laugh": {
+    "subtitle": "subtitles.mrhonk.laugh",
+    "sounds": [
+      "mrhonk:laugh"
+    ]
+  },
+  "found": {
+    "subtitle": "subtitles.mrhonk.found",
+    "sounds": [
+      "mrhonk:found"
+    ]
+  },
+  "stinger": {
+    "subtitle": "subtitles.mrhonk.stinger",
+    "sounds": [
+      "mrhonk:stinger"
+    ]
+  },
+  "squeak": {
+    "subtitle": "subtitles.mrhonk.squeak",
+    "sounds": [
+      "mrhonk:squeak"
+    ]
+  }
+}

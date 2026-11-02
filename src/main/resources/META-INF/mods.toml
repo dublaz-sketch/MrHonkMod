@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="mrhonk"
+version="1.0.0"
+displayName="Mr. Honk"
+authors="Eduardo"
+description='''
+Onde está o Mr. Honk? Um palhaço se esconde pelo seu mundo.
+Cada vez que você o encontra, ele fica mais ousado... até parar de se esconder
+e começar a caçar você — primeiro com armas de palhaço, depois com armas de verdade.
+'''
+
+[[dependencies.mrhonk]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.mrhonk]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
